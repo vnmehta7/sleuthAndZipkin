@@ -34,6 +34,7 @@
          ```text
               2019-12-11 17:39:52.887  INFO [zipkin-server4,3216daabf2bebca8,695f19a91f3ab153,true] 18388 --- [nio-8084-exec-1] c.e.zipkinservice4.ZipkinController      : Inside zipkinService 4..
          ```
-After this you can search with traceid on Zipkin web portal to verify which service took how much time
+- After this you can search with traceid on Zipkin web portal to verify which service took how much time. You can refer to below screenshot.
+    ![Zipkin screenshot](zipkin.png)
         
     

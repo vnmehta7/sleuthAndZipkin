@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8231518-3f49-4af2-97b7-62f7f1cf99a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnTzISnmW1X2PV9R9w0mvQeKpV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZipkinService1Application">
+    <configuration name="ZipkinService1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-service-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinservice1.ZipkinService1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinService2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-service-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinservice2.ZipkinService2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinService3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-service-3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinservice3.ZipkinService3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinService4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-service-4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinservice4.ZipkinService4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8231518-3f49-4af2-97b7-62f7f1cf99a3" name="Default Changelist" comment="" />
+      <created>1575991620225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575991620225</updated>
+      <workItem from="1575991630522" duration="684000" />
+      <workItem from="1576041138514" duration="3723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576042949069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576042949069" />
+    <state width="1877" height="479" key="GridCell.Tab.0.bottom" timestamp="1576048191180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
+    <state width="1877" height="479" key="GridCell.Tab.0.center" timestamp="1576048191179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191179" />
+    <state width="1877" height="479" key="GridCell.Tab.0.left" timestamp="1576048191179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191179" />
+    <state width="1877" height="479" key="GridCell.Tab.0.right" timestamp="1576048191180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
+    <state width="1877" height="479" key="GridCell.Tab.1.bottom" timestamp="1576048191181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191181" />
+    <state width="1877" height="479" key="GridCell.Tab.1.center" timestamp="1576048191180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
+    <state width="1877" height="479" key="GridCell.Tab.1.left" timestamp="1576048191180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
+    <state width="1877" height="479" key="GridCell.Tab.1.right" timestamp="1576048191181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="479" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191181" />
+  </component>
+</project>

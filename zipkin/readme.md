@@ -15,7 +15,7 @@
         - zipkin-service-2
         - zipkin-service-3
         - zipkin-service-4
-    - Once applications are running hit below url on browser from zipkin-service-1 and observer logs for all above 4 services. Here you would notice the traceid is same. In these log sample it is **3216daabf2bebca8**
+    - Once applications are running hit  **http://localhost:8081/zipkin** on browser from zipkin-service-1 and observer logs for all above 4 services. Here you would notice the traceid is same. In these log sample it is **3216daabf2bebca8**
         - Logs from zipkin-service-1
         ```text
               2019-12-11 17:39:30.814  INFO [zipkin-server1,3216daabf2bebca8,3216daabf2bebca8,true] 5532 --- [nio-8081-exec-4] c.e.zipkinservice1.ZipkinController      : Inside zipkinService 1..

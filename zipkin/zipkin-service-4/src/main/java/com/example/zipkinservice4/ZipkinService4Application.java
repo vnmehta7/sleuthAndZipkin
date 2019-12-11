@@ -24,7 +24,7 @@ public class ZipkinService4Application {
 class ZipkinController {
 
 	@Autowired
-	RestTemplate restTemplate;
+	private RestTemplate restTemplate;
 
 	@Bean
 	public AlwaysSampler alwaysSampler() {

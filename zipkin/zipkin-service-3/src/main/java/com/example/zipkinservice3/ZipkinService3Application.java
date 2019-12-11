@@ -23,11 +23,12 @@ public class ZipkinService3Application {
 class ZipkinController{
 	
 	@Autowired
-	RestTemplate restTemplate;
+	private RestTemplate restTemplate;
 	@Bean
 	public RestTemplate getRestTemplate() {
 		return new RestTemplate();
-	}@Bean
+	}
+	@Bean
 	public AlwaysSampler alwaysSampler() {
 		return new AlwaysSampler();
 	}

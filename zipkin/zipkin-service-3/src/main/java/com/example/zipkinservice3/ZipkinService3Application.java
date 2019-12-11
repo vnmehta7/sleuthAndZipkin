@@ -36,8 +36,8 @@ class ZipkinController{
 	@GetMapping(value="/zipkin3")
 	public String zipkinService1() {
 		LOG.info("Inside zipkinService 3..");
-		String response = (String) restTemplate.exchange("http://localhost:8084/zipkin4", HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
+		String response =  restTemplate.exchange("http://localhost:8084/zipkin4", HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
         }).getBody();
-		return "Hi...";
+		return response;
 	}
 }

@@ -41,12 +41,11 @@ class ZipkinController{
 		try {
 			Thread.sleep(20 * 1000);
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			LOG.error(e);
 		}
-		LOG.info("returning afte delay..");
-		String response = (String) restTemplate.exchange("http://localhost:8083/zipkin3", HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
+		LOG.info("returning after delay..");
+		String response = restTemplate.exchange("http://localhost:8083/zipkin3", HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
         }).getBody();
-		return "Hi...";
+		return response;
 	}
 }

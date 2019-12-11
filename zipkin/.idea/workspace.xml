@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8231518-3f49-4af2-97b7-62f7f1cf99a3" name="Default Changelist" comment="" />
+    <list default="true" id="f8231518-3f49-4af2-97b7-62f7f1cf99a3" name="Default Changelist" comment="completed code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +21,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UnTzISnmW1X2PV9R9w0mvQeKpV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +37,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ZipkinService1Application">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\poc\zipkin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ZipkinService1ApplicationTests">
+    <configuration name="ZipkinService1ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zipkin-service-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.zipkinservice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.zipkinservice1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.zipkinservice1.ZipkinService1ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZipkinService1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="zipkin-service-1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinservice1.ZipkinService1Application" />
@@ -60,6 +88,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZipkinService1ApplicationTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -85,48 +118,95 @@
       <updated>1575991620225</updated>
       <workItem from="1575991630522" duration="684000" />
       <workItem from="1576041138514" duration="3723000" />
+      <workItem from="1576077933559" duration="2897000" />
     </task>
+    <task id="LOCAL-00001" summary="added readme.md">
+      <created>1576066576878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576066576878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed document">
+      <created>1576078639282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576078639282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed code">
+      <created>1576080252535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576080252536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="completed document" />
+    <MESSAGE value="completed code" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576042949069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576042949069" />
-    <state width="1877" height="479" key="GridCell.Tab.0.bottom" timestamp="1576048191180">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1576080952038">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
-    <state width="1877" height="479" key="GridCell.Tab.0.center" timestamp="1576048191179">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1576080952038" />
+    <state width="1237" height="284" key="GridCell.Tab.0.bottom" timestamp="1576080223336">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191179" />
-    <state width="1877" height="479" key="GridCell.Tab.0.left" timestamp="1576048191179">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="284" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576080223336" />
+    <state width="1877" height="478" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680554" />
+    <state width="1237" height="284" key="GridCell.Tab.0.center" timestamp="1576080223335">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191179" />
-    <state width="1877" height="479" key="GridCell.Tab.0.right" timestamp="1576048191180">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="284" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576080223335" />
+    <state width="1877" height="478" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680554" />
+    <state width="1237" height="284" key="GridCell.Tab.0.left" timestamp="1576080223335">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
-    <state width="1877" height="479" key="GridCell.Tab.1.bottom" timestamp="1576048191181">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="284" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576080223335" />
+    <state width="1877" height="478" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680553" />
+    <state width="1237" height="284" key="GridCell.Tab.0.right" timestamp="1576080223336">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191181" />
-    <state width="1877" height="479" key="GridCell.Tab.1.center" timestamp="1576048191180">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="284" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576080223336" />
+    <state width="1877" height="478" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680554" />
+    <state width="1237" height="284" key="GridCell.Tab.1.bottom" timestamp="1576080183051">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
-    <state width="1877" height="479" key="GridCell.Tab.1.left" timestamp="1576048191180">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="284" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576080183051" />
+    <state width="1877" height="478" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680555" />
+    <state width="1237" height="284" key="GridCell.Tab.1.center" timestamp="1576080183051">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191180" />
-    <state width="1877" height="479" key="GridCell.Tab.1.right" timestamp="1576048191181">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="284" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576080183051" />
+    <state width="1877" height="478" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680554" />
+    <state width="1237" height="284" key="GridCell.Tab.1.left" timestamp="1576080183050">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1877" height="479" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576048191181" />
+    <state width="1237" height="284" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576080183050" />
+    <state width="1877" height="478" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680554" />
+    <state width="1237" height="284" key="GridCell.Tab.1.right" timestamp="1576080183051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="284" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576080183051" />
+    <state width="1877" height="478" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576066680555" />
+    <state x="368" y="151" key="Vcs.Push.Dialog.v2" timestamp="1576080957130">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="151" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1576080957130" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576066579920" />
   </component>
 </project>
